@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="balldesc">Magic Ball</string>
+    <string name="btnText">Ask</string>
+    <string name="title">Make Everyday Decisions Better</string>
+    <string name="out1">The answer is Yes!</string>
+    <string name="out2">Nooh!</string>
+    <string name="out3">I don\'t Know!</string>
 </resources>
